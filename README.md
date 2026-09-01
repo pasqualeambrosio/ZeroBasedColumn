@@ -89,7 +89,12 @@ Create a folder named:
 ZeroBasedColumn
 ```
 
-inside the `plugins` folder and copy `ZeroBasedColumn.dll` into it.
+Inside the `plugins` folder, create a folder named `ZeroBasedColumn` and copy the `ZeroBasedColumn.dll` file into it.
+
+If you built the project yourself, use the DLL from the appropriate build folder:
+
+- **32-bit Notepad++:** copy `ZeroBasedColumn.dll` from the `Debug` folder.
+- **64-bit Notepad++:** copy `ZeroBasedColumn.dll` from the `Debug-64` folder.
 
 The resulting structure should be:
 
