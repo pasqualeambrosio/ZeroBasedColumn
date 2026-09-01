@@ -75,7 +75,7 @@ This makes the column displayed by Notepad++ consistent with zero-based indexes 
 
 ### Manual installation
 
-Download the latest Bin from the [Releases](https://github.com/pasqualeambrosio/ZeroBasedColumn/ZeroBasedColumn/bin) section.
+Download the latest Bin from the [Bin](https://github.com/pasqualeambrosio/ZeroBasedColumn/tree/main/ZeroBasedColumn/bin) section.
 
 In Notepad++, open:
 
