@@ -89,7 +89,7 @@ Create a folder named:
 ZeroBasedColumn
 ```
 
-Inside the `plugins` folder, create a folder named `ZeroBasedColumn` and copy the `ZeroBasedColumn.dll` file into it.
+Inside the folder `ZeroBasedColumn`, copy the `ZeroBasedColumn.dll` file into it.
 
 If you built the project yourself, use the DLL from the appropriate build folder:
 
