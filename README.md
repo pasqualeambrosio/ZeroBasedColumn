@@ -188,8 +188,6 @@ https://github.com/pasqualeambrosio/ZeroBasedColumn
 
 This project is released under the **MIT License**.
 
-See [LICENSE](LICENSE) for details.
-
 ## Author
 
 **Pasquale Ambrosio**
