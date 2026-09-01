@@ -131,10 +131,10 @@ For example:
 ```text
 Notepad++       ZeroBasedColumn
 
-Col: 1    →     Col: 0
-Col: 2    →     Col: 1
-Col: 3    →     Col: 2
-Col: 4    →     Col: 3
+Col: 1    →     Col_: 0
+Col: 2    →     Col_: 1
+Col: 3    →     Col_: 2
+Col: 4    →     Col_: 3
 ```
 
 You can disable the feature at any time by selecting **Use zero-based column** again.
